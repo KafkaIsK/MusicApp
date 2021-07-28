@@ -12,7 +12,7 @@ function App() {
     {
       title: "Marto Shemovrchi",
       artist: "Trio Manidili",
-      img_src: "./images/with-love.png",
+      img_src: "./images/with-love.jpg",
       src: "./music/Marto-Shemovrchi.mp3"
     },
     {
